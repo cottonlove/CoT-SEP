@@ -1,4 +1,4 @@
-# Full prompt for TripleSkip used in our experiments on the GSM8K Arithmetic Reasoning Benchmark
+# Full prompt for TripleStar used in our experiments on the GSM8K Arithmetic Reasoning Benchmark
 
 | Q & A                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------- |
