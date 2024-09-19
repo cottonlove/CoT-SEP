@@ -1,4 +1,4 @@
-# CoT-SEP
+# [IEEE FLLM 2024 (Oral)] Can Separators Improve Chain-of-Thought Prompting?
 
 Official Implementation of "Can Separators Improve Chain-of-Thought Prompting?"
 
