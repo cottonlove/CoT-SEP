@@ -1,5 +1,10 @@
 # CoT-SEP
 
-Full prompt for GSM8K, AQuA Artihmetic Reasoning Benchmark and CSQA Commonsense Reasoning Benchmark
+Official Implementation of "Can Separators Improve Chain-of-Thought Prompting?"
 
-* Code will be released soon *
+📎 [Paper](https://arxiv.org/pdf/2402.10645)
+
+✍🏻 [Yoonjeong Park](https://scholar.google.com/citations?user=zdOzNJMAAAAJ&hl=en) ✍🏻 [Hyunjin Kim](https://scholar.google.com/citations?user=dR9ka00AAAAJ&hl=en)
+
+* [x] Upload Full prompt for GSM8K, AQuA Artihmetic Reasoning Benchmark and CSQA Commonsense Reasoning Benchmark
+* [ ] Upload code 
