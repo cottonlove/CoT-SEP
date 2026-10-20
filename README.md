@@ -10,4 +10,3 @@ Official Implementation of "Can Separators Improve Chain-of-Thought Prompting?"
 (* denotes Equal Contribution)
 
 * [x] Upload Full prompt for GSM8K, AQuA Artihmetic Reasoning Benchmark and CSQA Commonsense Reasoning Benchmark
-* [ ] Upload code 
